@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Prolific144
-- 👀 I’m interested in Data Science.
+- 👋 Hi, I’m Neko Slevin
+- 👀 I’m a Data Analyst, statistician by proffession.
+- ✨ Ask me about Data Science, Machine Learning.
 - 🌱 I’m currently learning Deep learning and A.I
 - 💞️ I’m looking to collaborate on various codesthat i will be uploading randomly, and someone to work with on some projects 
 - 📫 How to reach me gmail: nekoslevin@gmail.com
